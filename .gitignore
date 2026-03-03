@@ -17,5 +17,6 @@ Thumbs.db
 repo/
 
 # Virtual environment
+.venv/
 venv/
 env/
