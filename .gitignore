@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# System files (macOS)
+.DS_Store
+Thumbs.db
+
+# Docker context (optional)
+repo/
+
+# Virtual environment
+venv/
+env/
